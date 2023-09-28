@@ -1,0 +1,8 @@
+{
+    "compilerOptions": {
+        "target": "ES2015",
+        "lib": ["ES2016.Array.Include"],
+        "module": "CommonJS",
+        "outDir": "dist"
+    }
+}

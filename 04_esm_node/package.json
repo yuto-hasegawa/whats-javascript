@@ -1,0 +1,16 @@
+{
+  "name": "04_esm_node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^3.2.4",
+    "micromark": "^4.0.0"
+  }
+}

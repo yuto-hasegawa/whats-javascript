@@ -1,0 +1,14 @@
+{
+  "name": "06_esm_bun",
+  "module": "index.js",
+  "type": "module",
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "chalk": "5"
+  }
+}

@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>whats-javascript/03_esm_browser</title>
+</head>
+<body>
+    <h1>03_esm_browser</h1>
+    <p>Open the console to find messages.</p>
+    <script type="importmap">
+    {
+      "imports": {
+        "micromark": "https://esm.sh/micromark@3?bundle"
+      }
+    }
+    </script>
+    <script type="module" src="index.js"></script>
+</body>
+</html>
